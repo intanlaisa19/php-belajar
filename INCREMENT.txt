@@ -1,0 +1,14 @@
+1. Php mendukung gaya bahasa pemrograman C untuk menaikkan dan menurunkan data number sejumlah 1 angka, gunanya untuk mempersingkat saat kita ingin menaikkan data
+
+2. Operator Increment dan Decrement
+-> a. $a++ (Post Increment) -> Kembalikan $a lalu naikkan 1 angka
+   b. ++$a (Pre Increment)  -> Naikkan $a satu angka, lalu kembalikan $a
+   c. $a-- (Post Decrement) -> Kembalikan $a lalu turunkan 1 angka
+   d. --$a (Pre Decrement)  -> Turunkan $a satu angka, lalu kembalikan $a
+
+Contoh : $a + $b (union) -> Menggabungkan array $a dan $b
+         $a == $b (Equality) -> True jika $a dan $b memiliki key-value sama
+         $a === $b (Identity) -> True jika $a dan $b memiliki key-value sama dan posisi sama
+         $a != $b (Inequality) -> True jika $a dan $b tidak sama
+         $a <> $b (Inequality) -> True jika $a dan $b tidak sama
+         $a !== $b (Nnonidentity) -> True jika $a dan $b tidak identik
